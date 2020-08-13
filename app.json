@@ -23,9 +23,6 @@
     },
     {
       "plan": "papertrail:choklad"
-    },
-    {
-      "plan": "sendgrid:starter"
     }
   ]
 }
