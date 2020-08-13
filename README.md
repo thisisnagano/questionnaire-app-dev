@@ -15,7 +15,7 @@
  ※また、`セキュリティトークンのリセット`を行いセキュリティトークンを入手してください。    
 
 ### 2. Herokuにアプリをデプロイ
- <a href="https://heroku.com/deploy?template=https://github.com/n-sysdes-co-jp/questionnaire-app-dev/tree/master">
+ <a href="https://heroku.com/deploy?template=https://github.com/thisisnagano/questionnaire-app-dev/tree/master">
    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
  </a>    
 
